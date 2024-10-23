@@ -5,8 +5,8 @@
   <artifactId>dwese-ticket-logger-servlet</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>NOMBRE ALUMNO - Aplicación Web para el registro de tickets en compras de supermercado.</name>
-  <url>https://github.com/antonio-gabriel-gonzalez-casado</url>
+  <name>Jose Fortunari Ruiz - Aplicación Web para el registro de tickets en compras de supermercado.</name>
+  <url>https://github.com/JoseFortunatiRuiz</url>
   <dependencies>
 
     <!-- JUnit es una de las bibliotecas más populares para realizar pruebas unitarias en proyectos Java. -->
